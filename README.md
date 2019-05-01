@@ -4,5 +4,6 @@ https://docs.google.com/document/d/1yJWYc5RfXk9c6hjo_DfeMhKHAahDrFhQqswJYLSJaW4/
 
 
 Pseudocode:
-1. The program only works up to the point that it takes the amount. The program still needs to be
-    programmed to update the stock quantity when the user purchases a product.
+This app can take an input from the user via the selected ID, subtract the amount according
+to the stock quantity of that id, and show the new quantity. Updating the actual table in the 
+MySQL workbench is still in progress.
